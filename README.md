@@ -1,35 +1,48 @@
-# Proyecto de los Arquetipos — Narrativa de Datos
+# Data Storytelling: Historias Basadas en Datos
 
-**Curso:** Ciencia de Datos / Comunicación de Datos  
-**Tipo:** Proyecto académico de storytelling con datos
+## Descripción
 
-## Resumen
-El proyecto explora cinco arquetipos narrativos aplicados a conjuntos de datos reales. Cada historia presenta un patrón distintivo (ironía, resiliencia, aclaración, ciclo y resolución) acompañado de un reporte crítico que interpreta los hallazgos con rigor estadístico y comunicacional.
+En este repositorio abordaremos cinco historias basadas en datos reales, desarrolladas a partir de diferentes estructuras narrativas de Data Storytelling. Cada historia presenta un análisis de información proveniente de organismos oficiales y busca comunicar hallazgos relevantes mediante una combinación de narrativa, visualización de datos e interpretación crítica.
 
-## Contenido por historia
+## Historias
 
-| Historia | Arquetipo | Tema | Archivos en raíz |
-|---|---|---|---|
-| Historia 1 | Ironía | "La curva que no escucho" | `Historia 1/` |
-| Historia 2 | Caída y recuperación | Ozono | `Historia 2/` |
-| Historia 3 | Confusión aclarada | Mortalidad | `Historia 3/` |
-| Historia 4 | Ascenso y caída | Población | `Historia 4/` |
-| Historia 5 | Amenaza vencida | Mortalidad infantil | `Historia 5/` |
+**La curva que no escuchó**  
+Ironía
 
-Cada carpeta `Historia N/` contiene:
-- `Historia_N_<tema>.pdf`: desarrollo narrativo del arquetipo.
-- `Reporte_critico_N_<tema>.pdf`: análisis crítico y fundamentos de ciencia de datos.
+**Del fondo de 1994 al horizonte de 2070**  
+Caída y recuperación
 
-## Estructura del repositorio
-Las cinco carpetas de historia están en la raíz del proyecto, cada una en su propio commit, en orden numérico del 1 al 5. Se incluye evidencia de coordinación del equipo (`WhatsApp Image 2026-11-19 at 3.10.46 AM.jpeg`).
+**¿Morimos más o morimos menos?**  
+Confusión aclarada
 
-## Criterios de evaluación (profesor de ciencia de datos)
-Como docente, califico el proyecto por:
+**El techo de once millones**  
+Ascenso y caída
 
-1. **Coherencia narrativa:** cada historia sigue un arquetipo definido y no mezcla patrones sin justificar.
-2. **Uso de datos:** los PDFs deben mostrar evidencia visual (gráficos/tablas) y no solo afirmaciones textuales.
-3. **Rigor crítico:** el reporte crítico debe discutir fuentes, limitaciones y posibles sesgos, no solo describir lo que ocurre.
-4. **Organización:** repositorio limpio, nombres de archivo consistentes y orden lógico de entrega.
+**Cuando la amenaza retrocede**  
+Amenaza vencida
 
-## Conclusión
-Proyecto académico completo con los cinco arquetipos planteados. Queda pendiente verificar la profundidad estadística de cada reporte crítico antes de asignar la calificación final.
+## Fuentes de Datos
+
+Los datos utilizados en este proyecto fueron obtenidos de fuentes oficiales nacionales e internacionales especializadas en medio ambiente, salud pública, demografía y cambio climático.
+
+- NOAA (National Oceanic and Atmospheric Administration)
+  https://gml.noaa.gov/ccgg/trends/
+
+- NASA Ozone Watch
+  https://ozonewatch.gsfc.nasa.gov/
+
+- Ministerio de Salud Pública de Cuba (MINSAP)
+  https://salud.msp.gob.cu/
+
+- Oficina Nacional de Estadística e Información (ONEI)
+  http://www.onei.gob.cu/
+
+- Convención Marco de las Naciones Unidas sobre el Cambio Climático (CMNUCC)
+  https://unfccc.int/
+
+- Organización de las Naciones Unidas (ONU)
+  https://www.un.org/
+
+## Autor
+
+**Harold Ricardo Ponce**
